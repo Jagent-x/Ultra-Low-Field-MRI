@@ -115,19 +115,21 @@ Apr 2021
 Dec 2022
 
 **MRI Together 2023** \
-[[Video](https://www.youtube.com/watch?v=NKXGonO7p8s&list=PLeDygc8TN_J65c0jM0ms__diTMylbEk9l&ab_channel=ESMRMB)] \
+[[Videos](https://www.youtube.com/watch?v=NKXGonO7p8s&list=PLeDygc8TN_J65c0jM0ms__diTMylbEk9l&ab_channel=ESMRMB)] \
 Dec 2023
 
 **MRI Together 2022** \
-[[Video](https://www.youtube.com/watch?v=__PNXPl2xq0&list=PLeDygc8TN_J6h3RbDDVPW5oTJzRBVg7BQ&ab_channel=ESMRMB)] \
+[[Videos](https://www.youtube.com/watch?v=__PNXPl2xq0&list=PLeDygc8TN_J6h3RbDDVPW5oTJzRBVg7BQ&ab_channel=ESMRMB)] \
 Dec 2022
 
 **MRI Together 2021** \
-[[Video](https://www.youtube.com/watch?v=pgHLqNIvzoM&list=PLeDygc8TN_J48APEUyle4Ql2uSTc74Nsg&ab_channel=ESMRMB)] \
+[[Videos](https://www.youtube.com/watch?v=pgHLqNIvzoM&list=PLeDygc8TN_J48APEUyle4Ql2uSTc74Nsg&ab_channel=ESMRMB)] \
 Dec 2021
 
 **OHBM 2023** \
-[[Video](https://www.youtube.com/watch?v=nrcMujvGXoM&t=637s&ab_channel=OrganizationforHumanBrainMapping, https://www.youtube.com/watch?v=SFeD1lQNsVg&ab_channel=OrganizationforHumanBrainMapping, https://www.youtube.com/watch?v=DZarPsZ5G7A&ab_channel=OrganizationforHumanBrainMapping)] \
+[[Video](https://www.youtube.com/watch?v=nrcMujvGXoM&t=637s&ab_channel=OrganizationforHumanBrainMapping)]\
+[[Video](https://www.youtube.com/watch?v=SFeD1lQNsVg&ab_channel=OrganizationforHumanBrainMapping)]\
+[[Video](https://www.youtube.com/watch?v=DZarPsZ5G7A&ab_channel=OrganizationforHumanBrainMapping)]\
 Apr 2024
 
 ## Workshop & Course
@@ -221,7 +223,7 @@ Apr 2024
 [[OCRA](https://openmri.github.io/ocra/)]
 
 **B0 Design**\
-[[LUMC-LowFieldMRI/HalbachOptimisation](https://github.com/LUMC-LowFieldMRI/HalbachOptimisation)]
+[[LUMC-LowFieldMRI/HalbachOptimisation](https://github.com/LUMC-LowFieldMRI/HalbachOptimisation)]\
 [[HalbachMRIDesigner](https://github.com/menkueclab/HalbachMRIDesigner)]
 
 
@@ -270,7 +272,7 @@ Apr 2024
 [[Page](https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/full/10.1002/nbm.5245)]
 
 **Low-cost high-performance MRI** \
-*Sarracanie, Mathieu, Cristen D. LaPierre, Najat Salameh, David EJ Waddington, Thomas Witzel, and Matthew S. Rosen.*/
+*Sarracanie, Mathieu, Cristen D. LaPierre, Najat Salameh, David EJ Waddington, Thomas Witzel, and Matthew S. Rosen.*\
 [[Page](https://www.nature.com/articles/srep15177)]
 Oct 2015
 
