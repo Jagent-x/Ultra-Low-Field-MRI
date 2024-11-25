@@ -164,10 +164,10 @@ Apr 2024
 [[Bringing MRI to Low-Resource Areas](https://www.ismrm.org/20/program_files/Plenary03.htm)]
 
 **ISMRM 2021**\
-[[High-Field to Very- & Ultra-Low-Field MRI: What's Different?] (https://www.ismrm.org/21/program-files/WE-24.htm)]\
-[[Low-Field Magnetic Resonance Imaging with Portability/Accessibility] (https://www.ismrm.org/21/program-files/MIS-03.htm)]\
-[[Interventional & Low-Field MRI] (https://www.ismrm.org/21/program-files/CES-11A.htm)]\
-[[Engineering & Applying Low-Field MRI] (https://www.ismrm.org/21/program-files/D-159.htm)]
+[[High-Field to Very- & Ultra-Low-Field MRI: What's Different?](https://www.ismrm.org/21/program-files/WE-24.htm)]\
+[[Low-Field Magnetic Resonance Imaging with Portability/Accessibility](https://www.ismrm.org/21/program-files/MIS-03.htm)]\
+[[Interventional & Low-Field MRI](https://www.ismrm.org/21/program-files/CES-11A.htm)]\
+[[Engineering & Applying Low-Field MRI](https://www.ismrm.org/21/program-files/D-159.htm)]
 
 **ISMRM 2022**\
 [[Oral Session - Low-Field MRI: System Development](https://www.ismrm.org/22/program-files/O-33.htm)]\
@@ -177,23 +177,23 @@ Apr 2024
 [[Digital Poster - Low-Field MRI II](https://www.ismrm.org/22/program-files/D-87.htm)]
 
 **ISMRM 2023**\
-[[Weekend Course - Primer to Low-Field MR] (https://www.ismrm.org/23/program-files/WE-24.htm)]\
-[[Digital Poster - Low-Field & Point-of-Care/Portable MRI I] (https://www.ismrm.org/23/program-files/D-160.htm)]\
-[[Digital Poster - Low-Field & Point-of-Care/Portable MRI II] (https://www.ismrm.org/23/program-files/D-172.htm)]\
-[[Oral Session - Low-Field & Point-of-Care/Portable MRI] (https://www.ismrm.org/23/program-files/O-53.htm)]\
-[[Sunrise Course - Oncologic Imaging at Low Field] (https://www.ismrm.org/23/program-files/S-W-03.htm)]
+[[Weekend Course - Primer to Low-Field MR](https://www.ismrm.org/23/program-files/WE-24.htm)]\
+[[Digital Poster - Low-Field & Point-of-Care/Portable MRI I](https://www.ismrm.org/23/program-files/D-160.htm)]\
+[[Digital Poster - Low-Field & Point-of-Care/Portable MRI II](https://www.ismrm.org/23/program-files/D-172.htm)]\
+[[Oral Session - Low-Field & Point-of-Care/Portable MRI](https://www.ismrm.org/23/program-files/O-53.htm)]\
+[[Sunrise Course - Oncologic Imaging at Low Field](https://www.ismrm.org/23/program-files/S-W-03.htm)]
 
 
 **ISMRM 2024**\
 [[Recent Progress on Open-Source Low-Field Portable MRI](https://submissions.mirasmart.com/ISMRM2024/Itinerary/ConferenceMatrixEventDetail.aspx?ses=MIS-08)]\
-[[Oral - Low-Field High-Quality MRI] (https://submissions.mirasmart.com/ISMRM2024/Itinerary/ConferenceMatrixEventDetail.aspx?ses=O-51)]\
+[[Oral - Low-Field High-Quality MRI](https://submissions.mirasmart.com/ISMRM2024/Itinerary/ConferenceMatrixEventDetail.aspx?ses=O-51)]\
 [[Low Field MRI: New Opportunities](https://submissions.mirasmart.com/ISMRM2024/Itinerary/ConferenceMatrixEventDetail.aspx?ses=P-01)]\
-[[Digital Poster - Hardware at the Extremes: Ultra-Low & -High Fields] (https://submissions.mirasmart.com/ISMRM2024/Itinerary/ConferenceMatrixEventDetail.aspx?ses=D-147)]\
+[[Digital Poster - Hardware at the Extremes: Ultra-Low & -High Fields](https://submissions.mirasmart.com/ISMRM2024/Itinerary/ConferenceMatrixEventDetail.aspx?ses=D-147)]\
 [[Digital Poster - Embrace the Flexibility: Low-Field Acquisition](https://submissions.mirasmart.com/ISMRM2024/Itinerary/ConferenceMatrixEventDetail.aspx?ses=D-148)]\
-[[Digital Poster - Optimal Sequence & Hardware Design in Low-Field MRI] (https://submissions.mirasmart.com/ISMRM2024/Itinerary/ConferenceMatrixEventDetail.aspx?ses=D-144)]\
-[[Digital Poster - Rage Against the Machine: New Concepts in Low-Field MRI] (https://submissions.mirasmart.com/ISMRM2024/Itinerary/ConferenceMatrixEventDetail.aspx?ses=D-152)]\
-[[Weekday Course - From Low Field to High Field] (https://submissions.mirasmart.com/ISMRM2024/Itinerary/ConferenceMatrixEventDetail.aspx?ses=W-01)]\
-[[Digital Poster - Grand Designs: Hardware Enhancements for Low & High Fields] (https://submissions.mirasmart.com/ISMRM2024/Itinerary/ConferenceMatrixEventDetail.aspx?ses=D-142)]
+[[Digital Poster - Optimal Sequence & Hardware Design in Low-Field MRI](https://submissions.mirasmart.com/ISMRM2024/Itinerary/ConferenceMatrixEventDetail.aspx?ses=D-144)]\
+[[Digital Poster - Rage Against the Machine: New Concepts in Low-Field MRI](https://submissions.mirasmart.com/ISMRM2024/Itinerary/ConferenceMatrixEventDetail.aspx?ses=D-152)]\
+[[Weekday Course - From Low Field to High Field](https://submissions.mirasmart.com/ISMRM2024/Itinerary/ConferenceMatrixEventDetail.aspx?ses=W-01)]\
+[[Digital Poster - Grand Designs: Hardware Enhancements for Low & High Fields](https://submissions.mirasmart.com/ISMRM2024/Itinerary/ConferenceMatrixEventDetail.aspx?ses=D-142)]
 
 
 ## Open Source
@@ -206,11 +206,11 @@ Apr 2024
 [[LUMC-LowFieldMRI/GradientDesignTool](https://github.com/LUMC-LowFieldMRI/GradientDesignTool)]
 
 **Gradient Coil Amplifier**\
-[[GPA FHD0] (https://github.com/menkueclab/GPA-FHDO)]
-[[LUMC-LowFieldMRI/GradientAmplifier] (https://github.com/LUMC-LowFieldMRI/GradientAmplifier)]
+[[GPA FHD0](https://github.com/menkueclab/GPA-FHDO)]\
+[[LUMC-LowFieldMRI/GradientAmplifier](https://github.com/LUMC-LowFieldMRI/GradientAmplifier)]
 
 **Spectrometer**\
-[[Opencore NMR] (https://www.opensourceimaging.org/project/opencore-nmr/)]\
+[[Opencore NMR](https://www.opensourceimaging.org/project/opencore-nmr/)]\
 [[LimeSDR Spectrometer](https://www.opensourceimaging.org/project/limesdr-spectrometer/)]\
 [[gr-MRI](https://www.opensourceimaging.org/project/gr-mri-a-software-package-for-magnetic-resonance-imaging-using-software-defined-radios/)]
 
@@ -221,20 +221,20 @@ Apr 2024
 [[OCRA](https://openmri.github.io/ocra/)]
 
 **B0 Design**\
-[[LUMC-LowFieldMRI/HalbachOptimisation] (https://github.com/LUMC-LowFieldMRI/HalbachOptimisation)]
-[[HalbachMRIDesigner] (https://github.com/menkueclab/HalbachMRIDesigner)]
+[[LUMC-LowFieldMRI/HalbachOptimisation](https://github.com/LUMC-LowFieldMRI/HalbachOptimisation)]
+[[HalbachMRIDesigner](https://github.com/menkueclab/HalbachMRIDesigner)]
 
 
 **RF Coils**\
-[[cosi-transmit] (https://github.com/opensourceimaging/cosi-transmit)]\
-[[UKF_19FCOIL] (https://github.com/ozenEEE/UKF_19FCOIL)]
+[[cosi-transmit](https://github.com/opensourceimaging/cosi-transmit)]\
+[[UKF_19FCOIL](https://github.com/ozenEEE/UKF_19FCOIL)]
 
 **RF Power Amplifier**\
-[[LUMC-LowFieldMRI/RFPA_1kW] (https://github.com/LUMC-LowFieldMRI/RFPA_1kW)]
+[[LUMC-LowFieldMRI/RFPA_1kW](https://github.com/LUMC-LowFieldMRI/RFPA_1kW)]
 
 
 **MRI System**\
-[[MIT Desktop MRI system] (https://tabletop.martinos.org/index.php/Main_Page)]\
+[[MIT Desktop MRI system](https://tabletop.martinos.org/index.php/Main_Page)]\
 [[OSI²](https://gitlab.com/osii)]
 
 
