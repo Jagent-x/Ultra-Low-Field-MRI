@@ -81,7 +81,7 @@ Dec 2023
 
 **BrainMap: Ultra-low-field MRI for Healthcare: A future powered by computing?** \
 *Ed Wu* \
-[[Video](hhttps://www.youtube.com/watch?v=j7v4AnJCltk&ab_channel=MGHMartinosCenter)] \
+[[Video](https://www.youtube.com/watch?v=j7v4AnJCltk&ab_channel=MGHMartinosCenter)] \
 21 Nov 2023
 
 **OSI² ONE: An Open Source Low-Field magnetic resonance imaging (MRI) Scanner** \
@@ -294,36 +294,36 @@ Oct 2015
 ## EMI 
 
 **External dynamic interference estimation and removal (EDITER) for low field MRI**\
-*Srinivas, Sai Abitha, Stephen F. Cauley, Jason P. Stockmann, Charlotte R. Sappo, Christopher E. Vaughn, Lawrence L. Wald, William A. Grissom, and Clarissa Z. Cooley.*/
+*Srinivas, Sai Abitha, Stephen F. Cauley, Jason P. Stockmann, Charlotte R. Sappo, Christopher E. Vaughn, Lawrence L. Wald, William A. Grissom, and Clarissa Z. Cooley.*\
 [[Website](https://pmc.ncbi.nlm.nih.gov/articles/PMC8920578/)]
 [[Github]()]
 
 
 **Electromagnetic interference elimination via active sensing and deep learning prediction for radiofrequency shielding‐free MRI**\
-*Zhao, Yujiao, Linfang Xiao, Yilong Liu, Alex T. Leong, and Ed X. Wu.*/
+*Zhao, Yujiao, Linfang Xiao, Yilong Liu, Alex T. Leong, and Ed X. Wu.*\
 [[Website](https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/full/10.1002/nbm.4956)]
 [[Github]()]
 
 **Active EMI suppression system for a 50 mT unshielded portable MRI scanner**\
-*Yang, Lei, Wei He, Yucheng He, Jiamin Wu, Sheng Shen, and Zheng Xu.*/
+*Yang, Lei, Wei He, Yucheng He, Jiamin Wu, Sheng Shen, and Zheng Xu.*\
 [[Website](https://ieeexplore.ieee.org/abstract/document/9763395)]
 
 **Robust EMI elimination for RF shielding‐free MRI through deep learning direct MR signal prediction**\
-*Zhao, Yujiao, Linfang Xiao, Jiahao Hu, and Ed X. Wu.*/
+*Zhao, Yujiao, Linfang Xiao, Jiahao Hu, and Ed X. Wu.*\
 [[Website](https://onlinelibrary.wiley.com/doi/full/10.1002/mrm.30046)]
 [[Github]()]
 
 **Eliminating electromagnetic interference for RF shielding-free MRI via k-space convolution: Insights from MR parallel imaging advances**\
-*Liu, Yilong, Linfang Xiao, Mengye Lyu, and Ruixing Zhu*/
+*Liu, Yilong, Linfang Xiao, Mengye Lyu, and Ruixing Zhu*\
 [[Website](https://www.sciencedirect.com/science/article/abs/pii/S1090780724001927)]
 
 **Design and operation of a whole‐body MRI scanner without RF shielding**\
-*Biber, Stephan, Stephan Kannengiesser, Juergen Nistler, Markus Braun, Stefan Blaess, Matthias Gebhardt, David Grodzki et al.*/
+*Biber, Stephan, Stephan Kannengiesser, Juergen Nistler, Markus Braun, Stefan Blaess, Matthias Gebhardt, David Grodzki et al.*\
 [[Website](https://onlinelibrary.wiley.com/doi/abs/10.1002/mrm.30374)]
 Nov 2024
 
 **A single-coil-based method for electromagnetic interference reduction in point-of-care low field MRI systems**\
-*Parsa, Javad, Thomas O'Reilly, and Andrew Webb.*/
+*Parsa, Javad, Thomas O'Reilly, and Andrew Webb.*\
 [[Website](https://www.sciencedirect.com/science/article/pii/S1090780722002130)]
 
 
