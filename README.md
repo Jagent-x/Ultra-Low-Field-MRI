@@ -4,24 +4,24 @@
 
 
 ## Contents
-- [Resources]
+- [Resources](#resources)
   - [Introductory Papers](#introductory-papers)
   - [Introductory Videos](#introductory-videos)
-  - [Conference & Workshop](#conference-&-workshop)
+  - [Conference & Workshop](#conference-and-workshop)
   - [Open Source](#open-source)
-- [Companies](#Companies)
-- [Organization](#Organization)
-- [System](#Hardware-System)
-  - [System Development](#System-Development)
-  - [B0 Design](#B0-Design)
-  - [Gradient Coil](#Gradient-Coil)
-  - [RF Coil](#RF-Coil)
-  - [EMI](#EMI)
-- [Imaging](#Imaging)
-  - [Image Acquisition & Reconstruction](#Image-Acquisition-&-Reconstruction)
-  - [T1/T2 mapping](#T1/T2-mapping)
-- [Deep Learning](#Deep-Learning)
-- [Application](#Application)
+- [Companies](#company)
+- [Organization](#organization)
+- [System](#hardware-system)
+  - [System Development](#system-development)
+  - [B0 Design](#b0-design)
+  - [Gradient Coil](#gradient-coil)
+  - [RF Coil](#rf-coil)
+  - [EMI](#emi)
+- [Imaging](#imaging)
+  - [Image Acquisition & Reconstruction](#image-acquisition-and-reconstruction)
+  - [T1/T2 mapping](#t1-t2-mapping)
+- [Deep Learning](#deep-learning)
+- [Application](#application)
 
   
 # Resources
@@ -214,7 +214,7 @@ Dec 2021
 [[Video](https://www.youtube.com/watch?v=DZarPsZ5G7A&ab_channel=OrganizationforHumanBrainMapping)]\
 Apr 2024
 
-## Conference & Workshop
+## Conference and Workshop
 **ISMRM workshop on Low Filed MRI 2022** \
 [[Website](https://www.ismrm.org/workshops/2022/LowField/)] \
 17-18 Mar 2022
@@ -270,7 +270,11 @@ Apr 2024
 
 ## Open Source
 
-**Gradient Coil**\
+**B0 Design**\
+[[LUMC-LowFieldMRI/HalbachOptimisation](https://github.com/LUMC-LowFieldMRI/HalbachOptimisation)]\
+[[HalbachMRIDesigner](https://github.com/menkueclab/HalbachMRIDesigner)]
+
+**Gradient Coil Design**\
 [[CoilDesign](https://github.com/gBringout/CoilDesign/)]\
 [[CoilGen](https://github.com/Philipp-MR/CoilGen)]\
 [[pyCoilGen](https://github.com/kev-m/pyCoilGen)]\
@@ -281,29 +285,23 @@ Apr 2024
 [[GPA FHD0](https://github.com/menkueclab/GPA-FHDO)]\
 [[LUMC-LowFieldMRI/GradientAmplifier](https://github.com/LUMC-LowFieldMRI/GradientAmplifier)]
 
+**RF Coils**\
+[[cosi-transmit](https://github.com/opensourceimaging/cosi-transmit)]\
+[[UKF_19FCOIL](https://github.com/ozenEEE/UKF_19FCOIL)]
+
+**Pulse Sequence**\
+[[pulseq](https://pulseq.github.io/)]
+
 **Spectrometer**\
 [[Opencore NMR](https://www.opensourceimaging.org/project/opencore-nmr/)]\
 [[LimeSDR Spectrometer](https://www.opensourceimaging.org/project/limesdr-spectrometer/)]\
 [[gr-MRI](https://www.opensourceimaging.org/project/gr-mri-a-software-package-for-magnetic-resonance-imaging-using-software-defined-radios/)]
 
-**Pulse Sequence**\
-[[pulseq](https://pulseq.github.io/)]
-
 **Console**\
 [[OCRA](https://openmri.github.io/ocra/)]
 
-**B0 Design**\
-[[LUMC-LowFieldMRI/HalbachOptimisation](https://github.com/LUMC-LowFieldMRI/HalbachOptimisation)]\
-[[HalbachMRIDesigner](https://github.com/menkueclab/HalbachMRIDesigner)]
-
-
-**RF Coils**\
-[[cosi-transmit](https://github.com/opensourceimaging/cosi-transmit)]\
-[[UKF_19FCOIL](https://github.com/ozenEEE/UKF_19FCOIL)]
-
 **RF Power Amplifier**\
 [[LUMC-LowFieldMRI/RFPA_1kW](https://github.com/LUMC-LowFieldMRI/RFPA_1kW)]
-
 
 **MRI System**\
 [[MIT Desktop MRI system](https://tabletop.martinos.org/index.php/Main_Page)]\
@@ -324,6 +322,13 @@ Apr 2024
 **Multiwave**\
 [[Website](https://multiwave.ch/)]
 
+**Synaptive**\
+[[Website](https://www.synaptivemedical.com)]
+
+**Siemens 0.55T MRI**\
+[[Website](https://www.siemens-healthineers.com/en-us/magnetic-resonance-imaging)]
+
+
 # Organization
 
 **ezyMRI NerdFest** \
@@ -334,6 +339,10 @@ Apr 2024
 
 **A4IM**\
 [[Website](https://www.a4im.ptb.de)]
+
+# Labs
+
+
 
 # Hardware System 
 
@@ -697,7 +706,7 @@ Journal of Magnetic Resonance 346 (2023): 107355.\
 
 # Imaging 
 
-## Image Acquisition & Reconstruction
+## Image Acquisition and Reconstruction
 
 **Low-field magnetic resonance imaging using multiplicative regularization**\
 *den Bouter, Merel de Leeuw, Martin van Gijzen, and Rob Remis.*/
@@ -760,7 +769,7 @@ Journal of Magnetic Resonance 320 (2020): 106834.\
 [[Website](https://www.sciencedirect.com/science/article/pii/S109078072030152X)]
 
 
-##  T1/T2 mapping
+##  T1 T2 mapping
 
 **In vivo T1 and T2 relaxation time maps of brain tissue, skeletal muscle, and lipid measured in healthy volunteers at 50 mT**\
 *O’Reilly, Thomas, and Andrew G. Webb.*\
