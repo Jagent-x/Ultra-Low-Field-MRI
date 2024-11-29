@@ -664,6 +664,16 @@ Journal of Magnetic Resonance Open 16 (2023): 100110.\
 Journal of Magnetic Resonance 287 (2018): 33-40.\
 [[Website](https://www.sciencedirect.com/science/article/abs/pii/S1090780717302987)]
 
+## RF Shielding 
+**Segmented RF shield design to minimize eddy currents for low-field Halbach MRI systems**\
+*de Vos, Bart, Rob Remis, and Andrew Webb.*\ 
+Journal of Magnetic Resonance 362 (2024): 107669. \
+[[Website](https://www.sciencedirect.com/science/article/pii/S1090780724000533)]
+
+**Avoiding eddy-current problems in ultra-low-field MRI with self-shielded polarizing coils**\
+*Nieminen, Jaakko O., Panu T. Vesanen, Koos CJ Zevenhoven, Juhani Dabek, et al.*\
+Journal of Magnetic Resonance 212, no. 1 (2011): 154-160.\
+[[Website](https://www.sciencedirect.com/science/article/abs/pii/S1090780711002096)]
 
 ## EMI 
 
@@ -703,6 +713,16 @@ Journal of Magnetic Resonance 346 (2023): 107355.\
 [[Website](https://www.sciencedirect.com/science/article/pii/S1090780722002130)]
 
 
+## Console
+**MaRCoS, an open-source electronic control system for low-field MRI**\
+*Negnevitsky, Vlad, Yolanda Vives-Gilabert, José M. Algarín, Lincoln Craven-Brightman, et al.*\
+Journal of magnetic resonance 350 (2023): 107424.\
+[[Website](https://arxiv.org/pdf/2208.01616)]
+
+**Benchmarking the performance of a low‐cost magnetic resonance control system at multiple sites in the open MaRCoS community**\
+*Guallart‐Naval, Teresa, Thomas O'Reilly, José M. Algarín, Ruben Pellicer‐Guridi, et al.*\ 
+NMR in Biomedicine 36, no. 1 (2023): e4825.\
+[[Website](https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/pdfdirect/10.1002/nbm.4825)
 
 # Imaging 
 
