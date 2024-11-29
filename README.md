@@ -16,7 +16,9 @@
   - [B0 Design](#b0-design)
   - [Gradient Coil](#gradient-coil)
   - [RF Coil](#rf-coil)
+  - [RF Shielding](#rf-shielding)
   - [EMI](#emi)
+  - [Console](#console)
 - [Imaging](#imaging)
   - [Image Acquisition & Reconstruction](#image-acquisition-and-reconstruction)
   - [T1/T2 mapping](#t1-t2-mapping)
@@ -393,11 +395,6 @@ Frontiers in Physics 9 (2021): 701157.\
 Journal of Magnetic Resonance 193, no. 2 (2008): 274-285.\
 [[Website](https://pmc.ncbi.nlm.nih.gov/articles/PMC2572034/)]\
 
-**A low-cost and shielding-free ultra-low-field brain MRI scanner**\
-*Liu, Yilong, Alex TL Leong, Yujiao Zhao, Linfang Xiao, Henry KF Mak, Anderson Chun On Tsang, Gary KK Lau, Gilberto KK Leung, and Ed X. Wu.*\
-Nature communications 12, no. 1 (2021): 7238.\
-[[Website](https://www.nature.com/articles/s41467-021-27317-1.pdf)]\
-
 
 **Two‐dimensional imaging in a lightweight portable MRI scanner without gradient coils.**\
 *Cooley, Clarissa Zimmerman, Jason P. Stockmann, Brandon D. Armstrong, Mathieu Sarracanie, Michael H. Lev, Matthew S. Rosen, and Lawrence L. Wald.*\
@@ -657,7 +654,6 @@ IEEE Transactions on Instrumentation and Measurement 71 (2022): 1-11.\
 *Martin, Michele N., Anthony B. Kos, Stephen E. Russek, and Karl F. Stupic.*\
 Journal of Magnetic Resonance Open 16 (2023): 100110.\
 [[Website](https://www.sciencedirect.com/science/article/pii/S2666441023000183)]
-
 
 **A resistive Q-switch for low-field NMR systems**\
 *Zhen, J. Z., K. T. O'Neill, E. O. Fridjonsson, P. L. Stanwix, and M. L. Johns.*\
